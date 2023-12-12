@@ -1,6 +1,5 @@
-# dmp-short-quiz-questions
-Some short questions for some of the labs
 # DMP SHORT QUIZ QUESTIONS
+
 <details>
 <summary>Lab 1 - click to expand / close</summary>
 
